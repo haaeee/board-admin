@@ -8,8 +8,8 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan;
 @SpringBootApplication
 public class AdminToyProjectApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(AdminToyProjectApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(AdminToyProjectApplication.class, args);
+    }
 
 }
